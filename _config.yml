@@ -4,15 +4,15 @@ SEOTitle: LSASTA的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: 1247858701@qq.com
 description: "no."
-keyword: "BY, BY Blog, LSASTA的博客, LSASTA, LSASTA, iOS, Apple, iPhone"
+keyword: "java, bigdata, ML, python, LSASTA的博客"
 url: "http://lsasta.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/lsasta/lsasta.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "装逼遭雷劈"
+sidebar-avatar: #/img/about-BY-gentle.jpg      # 头像
 
 
 
@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  clientID: 5fa5686333d97dbf1dbf                            #生成的clientID
+  clientSecret: c0431eaf6f4aa068ffec5e158bd5e6feeb1eb01b    #生成的clientSecret
   repo: lsasta.github.io    #仓库名称
   owner: lsasta    #github用户名
   admin: lsasta
@@ -74,11 +74,11 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+#ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+#ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+#ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
